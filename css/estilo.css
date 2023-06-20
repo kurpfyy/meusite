@@ -130,11 +130,39 @@ nav#menu a:hover {
     text-decoration: underline; /* sublinhado */
 }
 
+img#icone5 {
+    position: absolute;
+    left: 620px;
+    top: -50px;
+    height: 50%;
+}
+
+img#icone4 {
+    position: absolute;
+    left: 620px;
+    top: -50px;
+    height: 45.5%;
+}
+
+img#icone3 {
+    position: absolute;
+    left: 620px;
+    top: -50px;
+    height: 40.9%;
+}
+
+img#icone2 {
+    position: absolute;
+    left: 620px;
+    top: -50px;
+    height: 40%;
+}
+
 img#icone {
     position: absolute;
     left: 620px;
     top: -50px;
-    height: 55%;
+    height: 55.3%;
 }
 
 section#corpo {
@@ -240,6 +268,13 @@ footer#rodape p {
 
 h1 {
     color: #fff;
+}
+
+legend {
+    color: #fff;
+    font-weight: bolder;
+    font-size: 13pt;
+    font-family: sans-serif;
 }
 
 
